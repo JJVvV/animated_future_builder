@@ -1,6 +1,6 @@
 ## Features
 
-FutureBuilder with animation.
+a very simple flutter animated future builder which almost a complete replacement for FutureBuilder
 
 ## Usage
 
